@@ -30,6 +30,13 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
 - **Tech Blog**: [![Blog](https://img.shields.io/badge/Blog-Naver-green?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/krkarma777)
 - **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krkarma777@gmail.com)
 
+# 📊 My GitHub Stats
+![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)
+
+## 🚀 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkarma777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 Feel free to reach out if you have any projects, ideas, or just want to connect!
