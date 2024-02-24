@@ -26,17 +26,18 @@ Here's a glance at the technologies and tools I'm focusing on to achieve my goal
 ## 🛠 Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br>
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=flat-square&logo=asana&logoColor=white)<br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## 📫 How to reach me
 
-[![Blog](https://img.shields.io/badge/Blog-Naver-green?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/krkarma777)
+[![Blog](https://img.shields.io/badge/Blog-Naver-green?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/krkarma777)<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krkarma777@gmail.com)
 
 # 📊 My GitHub Stats
