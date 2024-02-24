@@ -1,6 +1,8 @@
 <div align="center">
 
 # 👋 Hello, I'm YuJun Oh!
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrkarma777)<br>
+
 
 Welcome to my GitHub profile!<br> I'm on a journey to become a proficient backend developer, passionate about building robust and scalable software solutions. <br>
 Here's a glance at the technologies and tools I'm focusing on to achieve my goal:
