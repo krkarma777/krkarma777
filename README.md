@@ -10,17 +10,17 @@ Here's a glance at the technologies and tools I'm focusing on to achieve my goal
 ## 💻 Skills & Technologies
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)<br>
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3E2C00?style=flat-square&logo=oauth&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3E2C00?style=flat-square&logo=oauth&logoColor=white)<br>
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-%23FF0000.svg?&style=flat-square&logo=mybatis&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white)<br>
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?&style=flat-square&logo=thymeleaf&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)<br>
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 🛠 Tools
