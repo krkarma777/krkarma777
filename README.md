@@ -1,6 +1,9 @@
+<div align="center">
+
 # 👋 Hello, I'm YuJun Oh!
 
-Welcome to my GitHub profile! I'm passionate about creating robust and scalable software solutions. Below are some of the technologies and tools I work with:
+Welcome to my GitHub profile!<br> I'm on a journey to become a proficient backend developer, passionate about building robust and scalable software solutions. <br>
+Here's a glance at the technologies and tools I'm focusing on to achieve my goal:
 
 ## 💻 Skills & Technologies
 
@@ -27,8 +30,8 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
 
 ## 📫 How to reach me
 
-- **Tech Blog**: [![Blog](https://img.shields.io/badge/Blog-Naver-green?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/krkarma777)
-- **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krkarma777@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Naver-green?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/krkarma777)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krkarma777@gmail.com)
 
 # 📊 My GitHub Stats
 ![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)
@@ -37,6 +40,4 @@ Welcome to my GitHub profile! I'm passionate about creating robust and scalable 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkarma777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
-
-Feel free to reach out if you have any projects, ideas, or just want to connect!
+</div>
