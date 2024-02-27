@@ -2,6 +2,11 @@
 
 # 👋 Hello, I'm YuJun Oh!👋<br> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrkarma777)
 
+# 📊 My GitHub Stats
+![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)
+
+## 🚀 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkarma777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Skills & Technologies
 
@@ -38,11 +43,7 @@
 [![Blog](https://img.shields.io/badge/Blog-Naver-green?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/krkarma777)<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krkarma777@gmail.com)
 
-# 📊 My GitHub Stats
-![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)
 
-## 🚀 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkarma777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
