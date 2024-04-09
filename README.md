@@ -12,6 +12,9 @@
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)<br>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)<br>
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
@@ -19,10 +22,12 @@
 ![OAuth2](https://img.shields.io/badge/OAuth2-3E2C00?style=flat-square&logo=oauth&logoColor=white)<br>
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-%23FF0000.svg?&style=flat-square&logo=mybatis&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white)<br>
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)<br>
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?&style=flat-square&logo=thymeleaf&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)<br>
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ## 🛠 Tools
 
@@ -37,6 +42,7 @@
 ![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ## 📫 How to reach me
 
