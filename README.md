@@ -27,7 +27,10 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?&style=flat-square&logo=thymeleaf&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)<br>
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)<br>
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
+<br>
 
 ## Sub Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
