@@ -38,7 +38,9 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![LibGDX](https://img.shields.io/badge/LibGDX-F89820?style=flat-square&logo=libgdx&logoColor=white)<br>
+![LibGDX](https://img.shields.io/badge/LibGDX-F89820?style=flat-square&logo=libgdx&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+<br>
 
 ## 🛠 Tools
 
