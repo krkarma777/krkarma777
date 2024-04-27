@@ -40,7 +40,6 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![LibGDX](https://img.shields.io/badge/LibGDX-F89820?style=flat-square&logo=libgdx&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 <br>
 
 ## 🛠 Tools
