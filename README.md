@@ -22,16 +22,9 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3E2C00?style=flat-square&logo=oauth&logoColor=white)
-
 ![MyBatis](https://img.shields.io/badge/MyBatis-%23FF0000.svg?&style=flat-square&logo=mybatis&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?&style=flat-square&logo=thymeleaf&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
 
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
