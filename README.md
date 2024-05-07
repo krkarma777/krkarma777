@@ -10,23 +10,22 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 
 # 📖 Repositories Overview
 
-## GitHubUnfollowerTracker
+## [GitHubUnfollowerTracker](https://github.com/krkarma777/GitHubUnfollowerTracker)
 GitHubUnfollowerTracker is a web application designed to help users track unfollows among the people they follow on GitHub. Developed using Kotlin and Spring Boot, this application retrieves users' follower and following lists via the GitHub API to monitor changes.
 - ![GitHubUnfollowerTracker](https://github.com/krkarma777/krkarma777/assets/149022496/db25e12b-18e8-41df-a402-6fa199bc7766)
 
-## CleanAirTracker
+## [CleanAirTracker](https://github.com/krkarma777/CleanAirTracker)
 Clean Air Tracker is a website that utilizes the AirKorea OpenAPI from the Korea Environment Corporation to provide real-time air quality information, including particulate matter, fine particulate matter, and ozone. built with Express, TypeScript, Svelte, PostgreSQL, and TypeORM.
 - ![CleanAirTracker](https://github.com/krkarma777/krkarma777/assets/149022496/5a8d32bb-7fc6-4660-854c-ee5f8ac27aa6)
 
-## online-store
+## [online-store](https://github.com/krkarma777/online-store)
 SEED: An open-market platform built with JDK 17, Spring Boot, and Oracle DB, focusing on RESTful architecture and secure user experiences.
 - ![online-store](https://github.com/krkarma777/krkarma777/assets/149022496/b3b23da1-3f21-4a9d-853b-d0eef9e29dbe)
-
   
-## WitchEndTS
+## [WitchEndTS](https://github.com/krkarma777/WitchEndTS)
 A web-based Roguelike RPG with procedurally generated dungeons and turn-based combat. Built with NodeJS, NestJS, TypeScript for a rich, browser-based RPG experience.
 
-## WitchEndFE
+## [WitchEndFE](https://github.com/krkarma777/WitchEndFE)
 Frontend for a Roguelike RPG developed with Vue.js. This project brings to life a turn-based combat system and procedurally generated dungeons, all accessible via a web browser. Designed to interface seamlessly with a NodeJS/NestJS backend.
 - ![WitchEndFE](https://github.com/krkarma777/krkarma777/assets/149022496/9b1e5ee1-c764-4a31-9b66-25f8b3850a6d)
 
