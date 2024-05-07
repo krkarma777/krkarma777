@@ -5,15 +5,26 @@
 
 Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficiently, refining them to do it right, and optimizing for speed.<br> Here's a peek into my GitHub activities and tech stack!
 
-# 📊 My GitHub Stats
-![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)
+# 📊 My GitHub Stats / 🚀 Most Used Languages
+![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkarma777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkarma777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![image](https://github.com/krkarma777/krkarma777/assets/149022496/db25e12b-18e8-41df-a402-6fa199bc7766)
+
+![image](https://github.com/krkarma777/krkarma777/assets/149022496/5a8d32bb-7fc6-4660-854c-ee5f8ac27aa6)
+
+![image](https://github.com/krkarma777/krkarma777/assets/149022496/b3b23da1-3f21-4a9d-853b-d0eef9e29dbe)
+
+
+![image](https://github.com/krkarma777/krkarma777/assets/149022496/9b1e5ee1-c764-4a31-9b66-25f8b3850a6d)
+
 
 ## 💻 Skills & Technologies
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -21,22 +32,6 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-![MyBatis](https://img.shields.io/badge/MyBatis-%23FF0000.svg?&style=flat-square&logo=mybatis&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
-<br>
-
-## Sub Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -46,8 +41,11 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ![LibGDX](https://img.shields.io/badge/LibGDX-F89820?style=flat-square&logo=libgdx&logoColor=white)
-<br>
 
+![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 ## 🛠 Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
