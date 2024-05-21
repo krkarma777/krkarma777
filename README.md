@@ -10,6 +10,10 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 
 # 📖 Repositories Overview
 
+## [String Difference Finder](https://github.com/krkarma777/string-difference-finder)
+String Difference Finder is a web-based tool that allows you to compare two strings and visualize their differences. It highlights deletions in red and insertions in green, providing an intuitive way to understand changes between two versions of text. The tool leverages parallel processing to optimize the performance of the Longest Common Subsequence (LCS) algorithm, making it efficient for large inputs.
+![image](https://github.com/krkarma777/krkarma777/assets/149022496/dee3ae29-257a-49e1-8780-1cb105e068fd)
+
 ## [Project Leaf 🍃](https://github.com/krkarma777/Leaf)
 Project Leaf: Streamline your team's workflow with our free, stylish collaboration tool that blends the best of Slack, Jira, and Notion into one. Tailored for project management and team communication, Project Leaf is your go-to platform for enhanced productivity and security.
 ![image](https://github.com/krkarma777/krkarma777/assets/149022496/c2fbe473-5b18-48f8-98d4-c9ddf15f10a3)
