@@ -22,7 +22,8 @@ Project Leaf: Streamline your team's workflow with our free, stylish collaborati
 ## [GitHubUnfollowerTracker](https://github.com/krkarma777/GitHubUnfollowerTracker)
 https://findgithubunfollower.kro.kr/<br>
 GitHubUnfollowerTracker is a web application designed to help users track unfollows among the people they follow on GitHub. Developed using Kotlin and Spring Boot, this application retrieves users' follower and following lists via the GitHub API to monitor changes.
-![GitHubUnfollowerTracker](https://github.com/krkarma777/krkarma777/assets/149022496/db25e12b-18e8-41df-a402-6fa199bc7766)
+![image](https://github.com/krkarma777/krkarma777/assets/149022496/4a883dd6-224f-44ac-bb7e-85694f41df63)
+![image](https://github.com/krkarma777/krkarma777/assets/149022496/5cbced31-4698-44ad-9c52-493cdfeea2bd)
 
 ## [CleanAirTracker](https://github.com/krkarma777/CleanAirTracker)
 Clean Air Tracker is a website that utilizes the AirKorea OpenAPI from the Korea Environment Corporation to provide real-time air quality information, including particulate matter, fine particulate matter, and ozone. built with Express, TypeScript, Svelte, PostgreSQL, and TypeORM.
