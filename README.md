@@ -5,8 +5,8 @@
 
 Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficiently, refining them to do it right, and optimizing for speed.<br> Here's a peek into my GitHub activities and tech stack!
 
-# 📊 My GitHub Stats / 🚀 Most Used Languages
-![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krkarma777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 My GitHub Stats
+![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)
 
 # 📖 Repositories Overview
 
