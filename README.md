@@ -20,7 +20,6 @@ Project Leaf: Streamline your team's workflow with our free, stylish collaborati
 ![image](https://github.com/krkarma777/krkarma777/assets/149022496/c2fbe473-5b18-48f8-98d4-c9ddf15f10a3)
 
 ## [GitHubUnfollowerTracker](https://github.com/krkarma777/GitHubUnfollowerTracker)
-https://findgithubunfollower.kro.kr/<br>
 GitHubUnfollowerTracker is a web application designed to help users track unfollows among the people they follow on GitHub. Developed using Kotlin and Spring Boot, this application retrieves users' follower and following lists via the GitHub API to monitor changes.
 ![image](https://github.com/krkarma777/krkarma777/assets/149022496/4a883dd6-224f-44ac-bb7e-85694f41df63)
 ![image](https://github.com/krkarma777/krkarma777/assets/149022496/5cbced31-4698-44ad-9c52-493cdfeea2bd)
