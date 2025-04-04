@@ -10,6 +10,12 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 
 # 📖 Repositories Overview
 
+## [Javelin WAS](https://github.com/krkarma777/Javelin)
+Javelin WAS is a lightweight, high-performance web application server built on Java Virtual Threads.
+It aims to provide a modern alternative to traditional Java-based WAS solutions like Tomcat and Jetty, leveraging Virtual Threads for maximum concurrency and efficiency.
+![스크린샷 2025-04-04 173012](https://github.com/user-attachments/assets/201d8b32-0353-43f6-b71c-dabbc552e690)
+
+
 ## [String Difference Finder](https://github.com/krkarma777/string-difference-finder)
 String Difference Finder is a web-based tool that allows you to compare two strings and visualize their differences. It highlights deletions in red and insertions in green, providing an intuitive way to understand changes between two versions of text. The tool leverages parallel processing to optimize the performance of the Longest Common Subsequence (LCS) algorithm, making it efficient for large inputs.
 https://cdn.jsdelivr.net/gh/krkarma777/string-difference-finder@master/src/main/resources/static/js/diff.js
