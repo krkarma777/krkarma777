@@ -1,7 +1,7 @@
 <div align="center">
 
 
-#  Make It Work, Make It Right, Make It Fast.<br> ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrkarma777)
+#  Make It Work, Make It Right, Make It Fast.<br>
 
 Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficiently, refining them to do it right, and optimizing for speed.<br> Here's a peek into my GitHub activities and tech stack!
 
