@@ -12,7 +12,7 @@ Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficient
 
 ## [Javelin WAS](https://github.com/krkarma777/Javelin)
 Javelin WAS is a lightweight, high-performance web application server built on Java Virtual Threads.
-It aims to provide a modern alternative to traditional Java-based WAS solutions like Tomcat and Jetty, leveraging Virtual Threads for maximum concurrency and efficiency.
+It aims to provide a modern alternative to traditional Java-based WAS solutions like Tomcat and Jetty, leveraging Virtual Threads for maximum concurrency and efficiency.<br>
 ![스크린샷 2025-04-04 173012](https://github.com/user-attachments/assets/201d8b32-0353-43f6-b71c-dabbc552e690)
 
 
