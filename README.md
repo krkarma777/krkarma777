@@ -5,6 +5,14 @@
 
 Hello, I'm YuJun Oh!<br>Developing with a mantra of making things work efficiently, refining them to do it right, and optimizing for speed.<br> Here's a peek into my GitHub activities and tech stack!
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=krkarma777&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/krkarma777?pet-id=725626672339596047"
+    width="600"
+    height="120"
+  />
+</a>
+  
 # 📊 My GitHub Stats
 ![Krkarma777's GitHub stats](https://github-readme-stats.vercel.app/api?username=krkarma777&show_icons=true&theme=radical)
 
